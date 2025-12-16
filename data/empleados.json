@@ -1,0 +1,61 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Carlos Pérez",
+            "cargo": "Desarrollador",
+            "contratos": [
+                {
+                    "id_contrato": 101,
+                    "fecha_inicio": "2023-02-15",
+                    "fecha_fin": "2024-02-15",
+                    "salario": 3500
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "Edgar mauricio gomez",
+            "cargo": "Senior developer",
+            "contratos": [
+                {
+                    "id_contrato": 101,
+                    "fecha_inicio": "2025-01-01",
+                    "fecha_fin": "2025-11-01",
+                    "salario": 40000.0
+                },
+                {
+                    "id_contrato": 102,
+                    "fecha_inicio": "2025-04-05",
+                    "fecha_fin": "2025-06-23",
+                    "salario": 30000.0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "jairo mora",
+            "cargo": "QA senior",
+            "contratos": [
+                {
+                    "id_contrato": 101,
+                    "fecha_inicio": "2005-12-01",
+                    "fecha_fin": "2004-12-01",
+                    "salario": 40000.0
+                },
+                {
+                    "id_contrato": 102,
+                    "fecha_inicio": "2005-12-12",
+                    "fecha_fin": "2006-01-13",
+                    "salario": 40000.0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "Alison fernandez",
+            "cargo": "Analista de pruebas",
+            "contratos": []
+        }
+    ]
+}
